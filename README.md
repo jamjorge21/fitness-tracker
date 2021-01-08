@@ -34,4 +34,6 @@ Screenshots of Finesse Fitness Tracker:
 <img width="998" alt="resistance page" src="https://user-images.githubusercontent.com/70128888/103988290-aef64a80-5142-11eb-9015-a4bdde9e7b5b.png">
 <img width="1000" alt="Introduction page tracker fitness" src="https://user-images.githubusercontent.com/70128888/103988295-b158a480-5142-11eb-88f1-62c7019c4531.png">
 
+
+Footage of the app working
 https://user-images.githubusercontent.com/70128888/103988343-ca615580-5142-11eb-80b5-2da3c8fb12a4.mp4
